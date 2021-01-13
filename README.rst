@@ -4,13 +4,6 @@ Template
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
 
-Hello
-#. List Item 1
-#. List Item 2
-    #. List Subitem 1
-    #. List Subitem 2
-
-#. List Item 3
 
 Look how easy it is to use:
 
